@@ -16,7 +16,6 @@ These notebooks require NEST 3.3. You can run NEST in several ways.
 1. On the left, choose "Lab"
     - then either "Fenix CH" or "Fenix DE", 
     - then the "Official EBRAINS Docker Image 22.07"
-    - then in the **Jupyter lab file browser** navigate to `drive > My Libraries > My Library`
 1. In the left margin, click the Git logo
     - click "Clone a repository"
 	- enter https://github.com/heplesser/NMBU_FYS388_H22_NEST.git 
